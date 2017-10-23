@@ -1,0 +1,47 @@
+.modal-footer{
+
+background-color:#f5f5f5;
+}
+
+.btn-file {
+position: relative;
+overflow: hidden;
+}
+.btn-file input[type=file] {
+position: absolute;
+top: 0;
+right: 0;
+min-width: 100%;
+min-height: 100%;
+font-size: 100px;
+text-align: right;
+filter: alpha(opacity=0);
+opacity: 0;
+outline: none;
+background: white;
+cursor: inherit;
+display: block;
+
+}
+
+.well{
+background-color:#fff;
+border-radius: 10px;
+
+}
+
+
+.text-logo
+{
+font-family: 'Holtwood One SC', sans-serif;
+color: #e7480f;
+text-shadow: 2px 2px #ffd301;
+font-size: 50px;
+padding: 0px 0px;
+text-align: center;
+}
+.text-logo .glyphicon 
+{
+color: #ffd301;
+text-shadow: 0px 0px #ffd301;
+}
